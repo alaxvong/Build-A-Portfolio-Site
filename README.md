@@ -5,7 +5,7 @@ Source code for a portfolio website
 
 #### View Website
 
-- [View demo](https://github.com/adarsh0806)
+- [View demo](https://alaxvong.github.io/build-a-portfolio-site/)
 
 #### Version
 
